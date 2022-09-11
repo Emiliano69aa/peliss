@@ -1,1 +1,1 @@
-# peliss
+#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD) https://s97.upstreamcdn.co/hls/w47ryhaq7jbnx2nroz3kuaf3loahhoyevb663c7d7zygwlkdjnxo3pkvvzma/index-v1-a1.m3u8
